@@ -7,9 +7,9 @@ Sou Filipe Rodrigo
 - 👨🏻‍💻 Viciado em resolver **algoritmos** no [LeetCodes](https://leetcode.com/filiperv7/)
 - 🎲 Aprendendo mais sobre **Estrutura de Dados** com C e Python pelo ***CC50 de Harvard***
 
-<br/>
 
-  
+<h3>Linguagens mais usadas em projetos públicos</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filiperv7&layout=compact)
 
 
