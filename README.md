@@ -2,7 +2,7 @@
 Sou Filipe Rodrigo
 -
 
-#### Desenvolvedor Web por mias de 2 anos
+#### Desenvolvedor Web por mais de 2 anos
 - 🖼️ Amante de **designs** bem desenvolvidos
 - 👨🏻‍💻 Viciado em resolver **algoritmos** no [LeetCodes](https://leetcode.com/filiperv7/)
 - 🎲 Aprendendo mais sobre **Estrutura de Dados** com C e Python pelo ***CC50 de Harvard***
