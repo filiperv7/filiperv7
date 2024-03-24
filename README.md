@@ -35,5 +35,5 @@ Sou Filipe Rodrigo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-plain.svg" width="40px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40px"/>
 </div>
