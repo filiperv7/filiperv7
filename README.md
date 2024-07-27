@@ -3,7 +3,6 @@ Sou Filipe Rodrigo
 -
 
 ### Desenvolvedor Web por mais de 3 anos
-- 🖼️ Amante de **designs** bem desenvolvidos
 - ⚔️ Construindo sistemas com back-end e front-end testáveis
 - 👨🏻‍💻 Viciado em resolver **algoritmos** no **[LeetCode](https://leetcode.com/filiperv7/)**
 - 🎲 Aprendendo mais sobre **Estrutura de Dados** com C e Python pelo ***CS50 de Harvard***
